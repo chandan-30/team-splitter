@@ -1,0 +1,22 @@
+.divofT p{
+    color:greenyellow !important;
+}
+.divofT pre{
+    color:greenyellow !important;
+}
+
+.divofT h2{
+    color:greenyellow !important;
+}
+.divofT h5{
+    color:greenyellow !important;
+}
+
+.lbl{
+    color:gray !important;
+}
+
+.divofT{
+    margin-left: 25%;
+    margin-top: 20px;
+}

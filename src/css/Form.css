@@ -1,0 +1,59 @@
+.row1{
+    padding-left:25%;
+    padding-right:25%;
+}
+.row1 label{
+    color:greenyellow;
+}
+.row1 .num{
+    display: block;
+    background-color:  rgb(18,18,18);
+    border:1px solid greenyellow;
+    color:greenyellow;
+}
+
+.row1 input:focus{
+    background-color:  rgb(18,18,18);
+    border:1px solid greenyellow;
+    color:greenyellow;
+}
+
+.row1 .name{
+    background-color:  rgb(18,18,18);
+    border:1px solid greenyellow;
+    color:greenyellow;
+}
+
+.row1 .add{
+    background-color:  greenyellow;
+    border:1px solid greenyellow;
+    color:rgb(18,18,18);
+    font-weight: bold;
+}
+
+.row1 .add:hover{
+    background-color:  rgb(18,18,18) !important;
+    border:1px solid greenyellow !important;
+    color:greenyellow !important;
+    font-weight: bold;
+}
+
+.row1 p{
+    color:greenyellow;
+    white-space: wrap;
+    word-wrap: break-word;
+}
+
+.row1 .submit{
+    background-color:  rgb(18,18,18) !important;
+    border:1px solid greenyellow !important;
+    color:greenyellow !important;
+    font-weight: bold;
+}
+
+.row1 .submit:hover{
+    background-color:  greenyellow !important;
+    border:1px solid greenyellow !important;
+    color:rgb(18,18,18) !important;
+    font-weight: bold;
+}
