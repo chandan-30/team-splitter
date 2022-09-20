@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/team-splitter/static/css/main.b90ac6b0.css",
+    "main.js": "/team-splitter/static/js/main.d1d7ddef.js",
+    "static/js/787.85b43d0b.chunk.js": "/team-splitter/static/js/787.85b43d0b.chunk.js",
+    "index.html": "/team-splitter/index.html",
+    "main.b90ac6b0.css.map": "/team-splitter/static/css/main.b90ac6b0.css.map",
+    "main.d1d7ddef.js.map": "/team-splitter/static/js/main.d1d7ddef.js.map",
+    "787.85b43d0b.chunk.js.map": "/team-splitter/static/js/787.85b43d0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90ac6b0.css",
+    "static/js/main.d1d7ddef.js"
+  ]
+}
